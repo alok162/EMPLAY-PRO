@@ -130,7 +130,9 @@ class App extends Component {
       <div class="row mid-cls">
       <div class="top-box">
       <div class="col-md-12 top-icon">
+      <span>
       <span class="high-pipeline"> High Pipeline
+        </span>
         </span>
         <span>      </span> 
         <span class="high-pipeline"> High Potential

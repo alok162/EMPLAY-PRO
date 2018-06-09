@@ -51,18 +51,15 @@ ul.a {
 }
 .high-pipeline {
   background-color: white;
-  height: 20px;
-  width: 20px;
-  line-break: auto;
-  padding-right: 5px;
+  padding: 6px;
   border-radius: 3px;
-  -webkit-text-fill-color: black;
+  -webkit-text-fill-color: #f4a45f;
   font-size: 16px;
 }
-.span {
+/* .span {
   margin-right: 5px;
-  height: 25px;
-}
+  height: 30px;
+} */
 .acc-risk {
   padding-top: 80px;
 }
