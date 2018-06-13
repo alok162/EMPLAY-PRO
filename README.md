@@ -2,7 +2,7 @@
   **EMPLAY-PRO**
 
 # Getting Started
-
+This Project is written in Python and Django to take care backend and Reactjs for frontend and used Postgresql to manage the database.
 Get Cloned the repository on your local machine and jump to the directory and install dependency, to check dependency installation, check below installation guide and then run following steps.
 
 
