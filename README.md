@@ -1,4 +1,5 @@
-# EMPLAY-PRO
+# Project Title
+  **EMPLAY-PRO**
 
 # Getting Started
 
@@ -14,7 +15,7 @@ What things you need to install the software and how to install them
   5. postgresql
 
 # Installing
-  1. After installation of virtualenv create virtual env and got to env folder and run the command source      bin/activate  to activate the project environment.
+  1. After installation of virtualenv create virtual env and go to env folder and run the command source      bin/activate  to activate the project environment.
   2. Then clone repo and jump to the emplay folder and run pip install -r requirements.txt, it will install    all python dependency.
   3. Then run python manage.py makemigrations on terminal
   4. run python manage.py migrate.
