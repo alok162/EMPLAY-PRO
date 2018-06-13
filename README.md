@@ -4,8 +4,13 @@
 
 # Getting Started
 
+Get Cloned the repository on your local machine and jump to the directory and install dependency to check dependency installation check below installation guide and then run following steps:-
+  1. python manage.py makemigrations
+  2. python manage.py migrate
+  3. python manage.py runserver (will run django server in http://localhost:8000 port)
+  4. go to the folder frontend
+  5. npm start (will run another server react server for frontend in http://localhost:3000 port)
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 # Prerequisites
 What things you need to install the software and how to install them
