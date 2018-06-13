@@ -3,7 +3,7 @@
 
 # Getting Started
 
-Get Cloned the repository on your local machine and jump to the directory and install dependency to check dependency installation check below installation guide and then run following steps.
+Get Cloned the repository on your local machine and jump to the directory and install dependency, to check dependency installation, check below installation guide and then run following steps.
 
 
 # Prerequisites
